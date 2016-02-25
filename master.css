@@ -1,0 +1,30 @@
+/**************/
+/* BASE RULES */
+/**************/
+html {
+  font-size: 100%;
+}
+
+body {
+  background: #fff;
+  font: 18px/1.4 Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  font-size: 2.5em;
+  line-height: 1;
+}
+
+h1, h3 {
+  -webkit-margin-after: 0;
+}
+
+em {
+  background-color: #fff200;
+  font-weight: bold;
+}
+
+ul {
+  -webkit-margin-before: 0;
+}
