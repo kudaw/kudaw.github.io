@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #eee;
   font: 18px/1.4 Helvetica, Arial, sans-serif;
   color: #333;
 }
@@ -14,6 +14,16 @@ body {
 h1 {
   font-size: 2.5em;
   line-height: 1;
+}
+
+h1 span {
+  background-color: #4c4e4d;
+  color: #eee;
+  padding: 0px 10px;
+}
+
+h1 em {
+  font-size: 0.5em;
 }
 
 h1, h3 {
